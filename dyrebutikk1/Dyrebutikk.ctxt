@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dyrebutikk
+comment0.text=\r\n\ En\ dyrebutikk\ som\ selger\ dyr.\r\n\r\n\ @author\ Kristina\ Hoel\r\n\ @version\ 1.0\r\n
+comment1.params=butikkNavn
+comment1.target=Dyrebutikk(java.lang.String)
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=newDyr
+comment2.target=void\ addDyr(Dyr)
+comment2.text=\r\n\ Legg\ til\ et\ eksisterende\ dyr\ i\ butikken.\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3
