@@ -1,10 +1,28 @@
 #BlueJ class context
 comment0.target=StudentSystem
-comment0.text=\r\n\ Klasse\ for\ \u00E5\ holde\ liste\ av\ studenter.\r\n\r\n\ @author\ Kristina\r\n\ @version\ 1.0\r\n
-comment1.params=
-comment1.target=StudentSystem()
+comment0.text=\r\n\ Et\ objekt\ fra\ denne\ klassen\ representerer\ et\ universitet.\r\n\r\n\ @author\ Kristina\r\n\ @version\ 1.0\r\n
+comment1.params=uniNavn
+comment1.target=StudentSystem(java.lang.String)
 comment1.text=\r\n\ Constructor.\r\n
-comment2.params=
-comment2.target=void\ listAlleStudenter()
-comment2.text=\r\n\ Liste\ alle\ studentene.\r\n
-numComments=3
+comment2.params=nyStudent
+comment2.target=void\ addStudent(Student)
+comment2.text=\r\n\ Legge\ til\ ny\ student\ i\ lista\ som\ allerede\ finnes\ som\ et\ objekt.\r\n\ Her\ m\u00E5\ vi\ ha\ parameter,\ akkurat\ som\ p\u00E5\ set-metoder.\r\n
+comment3.params=
+comment3.target=void\ listAlleStudenterMedForEach()
+comment3.text=\r\n\ Liste\ alle\ studentene\ med\ for-each\ l\u00F8kke.\ Her\ har\ Hallgeir\ kalt\r\n\ "student"\ for\ loper,\ men\ det\ spiller\ ingen\ rolle.\r\n
+comment4.params=
+comment4.target=void\ listAlleStudenterMedWhile()
+comment4.text=\r\n\ Liste\ alle\ studentene\ med\ while-l\u00F8kke.\ Index\ starter\ p\u00E5\ null\ siden\r\n\ det\ er\ starten\ p\u00E5\ lista\ v\u00E5r.\ Hallgeir\ kaller\ "index"\ for\ teller,\ men\r\n\ det\ spiller\ nok\ en\ gang\ ingen\ rolle.\r\n
+comment5.params=studiet
+comment5.target=void\ listAlleP\u00E5EttStudie(java.lang.String)
+comment5.text=\r\n\ Liste\ alle\ studenter\ p\u00E5\ ett\ studie.\ Det\ ligner\ p\u00E5\ \u00E5\ liste\ alle,\ men\r\n\ vi\ f\u00E5r\ input\ om\ hvilket\ studie\ vi\ \u00F8nsker\ som\ parameter.\ For\ hvert\ \r\n\ element\ i\ lista,f\u00F8r\ vi\ skriver\ dem\ ut\ m\u00E5\ vi\ sjekke\ om\ studiet\ er\ det\ \r\n\ vi\ s\u00F8ker.\ getStudium-metoden\ fra\ Student-klassen\ brukes,\ og\ \r\n\ String-metoden\ "equals"\ eller\ "contains"\ det\ sistnevnte\ er\ mindre\ \r\n\ streng.\r\n\ studiet\ \=\ logisk\ variabelnavn,\ men\ kunne\ likegjerne\ v\u00E6rt\ brukt\ f\u00F8r.\r\n\ det\ sentrale\ er\ at\ parameter\ er\ likt\ det\ som\ st\u00E5r\ etter\ contains.\r\n
+comment6.params=navnet
+comment6.target=Student\ finnStudent(java.lang.String)
+comment6.text=\r\n\ Finne\ en\ student\ via\ navn.\r\n\ Passer\ best\ med\ while-l\u00F8kke\ siden\ for\ each\ legger\ opp\ til\ at\ du\ skal\r\n\ gjennom\ alle,\ men\ det\ kan\ hende\ navnet\ vi\ leter\ etter\ er\ nr\ en.\ \r\n\ mtp\ cohesion\ skal\ vi\ bare\ finne\ ham,\ kanskje\ ikke\ skrives\ ut.\r\n\ da\ kan\ den\ godt\ returnere\ et\ studentobjekt.\r\n\ vi\ velger\ likevel\ at\ den\ returnerer\ studenter\ og\ skriver\ den\ ut.\r\n\ boka\ s.118\ bruke\ for\ each\ siden\ den\ lister\ alle\ (?)\r\n
+comment7.params=navnet
+comment7.target=void\ finnStudentEnklere(java.lang.String)
+comment7.text=\r\n\ Finne\ en\ student\ p\u00E5\ en\ litt\ enklere\ m\u00E5te.\ L\u00F8per\ gjennom\ lista\ og\r\n\ skriver\ ut\ en\ student\ om\ hen\ finnes.\r\n
+comment8.params=studentnummeret
+comment8.target=void\ slettStudent(int)
+comment8.text=\r\n\ Slette\ en\ student\ basert\ p\u00E5\ studentnummer.\ Hvis\ vi\ skulle\ sletta\ \r\n\ flere\ studenter,\ eks.\ alle\ p\u00E5\ et\ studie,\ kunne\ vi\ ikke\ brukt\r\n\ for-each\ l\u00F8kka.\ Siden\ vi\ kun\ skal\ slette\ \u00E9n\ bruker\ vi\ hvilken\ l\u00F8kke\r\n\ vi\ vil.\ Ellers\ burde\ vi\ brukt\ Iterator.\r\n\ vi\ velger\ mellom\ while\ og\ for\ each\ og\ lander\ p\u00E5\ while.\r\n\ \r\n\ siden\ H\ hadde\ studnr\ som\ String\ og\ jeg\ har\ som\ int\ har\ min\ kode\ \=\=\r\n\ istedenfor\ .equals\ i\ if-setningen.\r\n
+numComments=9
