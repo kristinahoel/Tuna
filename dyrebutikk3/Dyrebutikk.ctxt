@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Dyrebutikk
+comment0.text=\r\n\ En\ dyrebutikk\ som\ selger\ dyr.\r\n\r\n\ @author\ Kristina\ Hoel\r\n\ @version\ 1.0\r\n
+comment1.params=butikkNavn\ butikkAdresse
+comment1.target=Dyrebutikk(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=nyttDyr
+comment2.target=void\ addDyr(Dyr)
+comment2.text=\r\n\ Legg\ til\ et\ eksisterende\ dyr\ i\ butikken.\r\n
+comment3.params=
+comment3.target=void\ skrivAlleDyr()
+comment3.text=\r\n\ Printe\ detaljer\ om\ alle\ dyr.\ Alle\ likhetstegnene\ er\ bare\ for\ pynt\ og\ \r\n\ printer\ skillelinjer.\r\n
+comment4.params=
+comment4.target=void\ skrivAllePatteDyr()
+comment4.text=\r\n\ Skriver\ ut\ alle\ pattedyr.\ Med\ for-l\u00F8kke.\ Kunne\ og\ brukt\ for\ each.\r\n\ L\u00F8kker\ best\u00E5r\ av\ tre\ ting\:\ m\u00E5\ initialiseres,\ m\u00E5\ ha\ betingelse\ og\ noe\ som\ p\u00E5virker\ betingelsen.\r\n
+comment5.params=prisGrense
+comment5.target=void\ skrivAlleDyrDyrereEnn(int)
+comment5.text=\r\n\ Printe\ med\ while-l\u00F8kke\ for\ moroskyld.\ Da\ m\u00E5\ vi\ selv\ s\u00F8rge\ for\ at\ vi\ \r\n\ begynner\ p\u00E5\ 0\ og\ slutter\ n\u00E5r\ vi\ er\ ferdig.\ Merk\ at\ parameteret\ oppgis\r\n\ av\ kunden\ n\u00E5r\ vi\ kaller\ metoden.\r\n
+numComments=6

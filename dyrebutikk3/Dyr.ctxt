@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Dyr
+comment0.text=\r\n\ Klasse\ for\ dyrene\ i\ dyrebutikken.\r\n\r\n\ @author\ Kristina\ Hoel\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Dyr()
+comment1.text=\r\n\ Constructor\ med\ defaultverdier.\r\n
+comment2.params=navn\ art\ f\u00F8dselsdato\ pris
+comment2.target=Dyr(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ for\ nye\ dyr.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getArt()
+comment3.text=\r\n\ Eksempel\ p\u00E5\ getter\r\n
+comment4.params=
+comment4.target=java.lang.String\ getNavn()
+comment4.text=\r\n\ Eksempel\ p\u00E5\ getter\r\n
+comment5.params=
+comment5.target=java.lang.String\ getF\u00F8dselsdato()
+comment5.text=\r\n\ Eksempel\ p\u00E5\ getter\r\n
+comment6.params=
+comment6.target=int\ getPris()
+comment6.text=\r\n\ Eksempel\ p\u00E5\ getter\r\n
+comment7.params=
+comment7.target=void\ skrivDyr()
+comment7.text=\r\n\ Skriv\ dyr\r\n
+numComments=8

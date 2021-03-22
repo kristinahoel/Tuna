@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PatteDyr
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PatteDyr\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=art\ navn\ f\u00F8dselsdato\ pris\ drektighetsTid\ antallUnger
+comment1.target=PatteDyr(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PatteDyr\r\n
+comment2.params=
+comment2.target=int\ getDrektighetsTid()
+comment2.text=\r\n\ Eksempel\ getter.\r\n
+comment3.params=
+comment3.target=int\ getAntallUnger()
+comment3.text=\r\n\ Eksempel\ getter.\r\n
+comment4.params=
+comment4.target=void\ skrivDyr()
+comment4.text=\r\n\ Skriv\ dyr\ igjen.\ Eksempel\ p\u00E5\ override.\ Vi\ gir\ ny\ mening\ til\ metoden\ som\ fins.\r\n
+numComments=5
