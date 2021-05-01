@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\r\n\ Klasse\ for\ \u00E5\ holde\ studenter.\r\n\r\n\ @author\ Kristina\r\n\ @version\ 1.0\r\n
+comment1.params=navn\ studentnummer\ studium
+comment1.target=Student(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=java.lang.String\ getStudentNavn()
+comment3.params=navn
+comment3.target=void\ setStudentNavn(java.lang.String)
+comment4.params=
+comment4.target=int\ getStudentNummer()
+comment5.params=studentnummer
+comment5.target=void\ setStudentNummer(int)
+comment6.params=
+comment6.target=java.lang.String\ getStudium()
+comment7.params=studium
+comment7.target=void\ setStudium(java.lang.String)
+comment8.params=
+comment8.target=void\ listStudent()
+numComments=9

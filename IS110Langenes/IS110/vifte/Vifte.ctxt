@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Vifte
+comment0.text=\r\n\ En\ enkel\ \u00F8velse\ for\ \u00E5\ vise\ en\ vifte\ man\ kan\ skru\ opp\ og\ ned\ temperaturen\r\n\ p\u00E5.\ Temperaturen\ settes\ til\ 15\ grader\ i\ constructoren\ og\ f\u00E5r\ metoder\ for\r\n\ \u00E5\ \u00F8ke\ og\ senke\ temperaturen\ med\ intervaller\ p\u00E5\ 5\ grader.\ \r\n\r\n\ @author\ Kristina\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Vifte()
+comment2.params=
+comment2.target=void\ varmere()
+comment3.params=
+comment3.target=void\ kaldere()
+comment4.params=
+comment4.target=void\ getTemp()
+numComments=5

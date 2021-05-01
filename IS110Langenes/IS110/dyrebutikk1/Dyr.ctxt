@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Dyr
+comment0.text=\r\n\ Klasse\ for\ dyrene\ i\ dyrebutikken.\r\n\r\n\ @author\ Kristina\ Hoel\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Dyr()
+comment1.text=\r\n\ Constructor.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getNavn()
+comment2.text=\r\n\ Eksempel\ p\u00E5\ getter\r\n\r\n\ @param\ \ \r\n\ @return\ \ \ \ navnet\ p\u00E5\ hunden\r\n
+numComments=3
