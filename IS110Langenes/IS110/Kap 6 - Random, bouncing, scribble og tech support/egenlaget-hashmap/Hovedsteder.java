@@ -2,10 +2,10 @@ import java.util.HashMap;
 
 public class Hovedsteder {
   public static void main(String[] args) {
-    // Create a HashMap object called capitalCities
+    // Lager et HashMap-objekt kalt capitalCities
     HashMap<String, String> capitalCities = new HashMap<String, String>();
 
-    // Add keys and values (Country, City)
+    // Adder keys og values (Country, City)
     capitalCities.put("England", "London");
     capitalCities.put("Germany", "Berlin");
     capitalCities.put("Norway", "Oslo");
