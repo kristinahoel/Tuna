@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sykkel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sykkel\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=farge\ type\ pris\ gir\ hastighet\ forbrems\ bakbrems
+comment1.target=Sykkel(java.lang.String,\ java.lang.String,\ int,\ Gir,\ int,\ Forbrems,\ Bakbrems)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sykkel\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ @return\ En\ stringrepresentasjon\ av\ denne\ sykkelens\ detaljer.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFarge()
+comment3.text=\r\n\ @return\ Sykkelens\ farge\r\n
+numComments=4

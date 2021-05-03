@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyScribble
+comment0.text=\r\n\ Class\ DrawDemo\ -\ provides\ some\ short\ demonstrations\ showing\ how\ to\ use\ the\ \r\n\ Pen\ class\ to\ create\ various\ drawings.\r\n\r\n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\r\n\ @version\ 2016.02.29\r\n
+comment1.params=
+comment1.target=MyScribble()
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=length
+comment2.target=void\ drawPentagon(int)
+comment2.text=\r\n\ Denne\ metoden\ kan\ tegne\ forskjellige\ figurer\ avhengig\ av\ verdien\ \r\n\ av\ en\ av\ dens\ lokale\ variabler.\ Tallet\ 3\ gir\ trekant,\ 4\ gir\ firkant\ etc.\r\n
+comment3.params=
+comment3.target=void\ drawLine()
+comment3.text=\r\n\ Tegne\ en\ linje\r\n
+numComments=4

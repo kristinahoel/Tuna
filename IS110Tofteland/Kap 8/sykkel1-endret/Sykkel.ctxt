@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Sykkel
+comment0.text=\r\n\ Klasse\ for\ sykkel.\r\n\r\n\ @author\ Kristina\r\n\ @version\ 1.2\r\n
+comment1.params=
+comment1.target=Sykkel()
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=farge\ type\ pris\ maxGear
+comment2.target=Sykkel(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=void\ writeSykkel()
+comment3.text=\r\n\ Metode\ for\ writing.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getFarge()
+comment4.text=\r\n\ Eksempel\ p\u00E5\ getter.\r\n\ @return\ Sykkelens\ farge\r\n
+comment5.params=
+comment5.target=int\ getPris()
+comment5.text=\r\n\ Eksempel\ p\u00E5\ getter.\r\n\ @return\ Sykkelens\ farge\r\n
+numComments=6

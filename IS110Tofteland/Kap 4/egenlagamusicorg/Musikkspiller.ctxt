@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Musikkspiller
+comment1.params=
+comment1.target=Musikkspiller()
+comment1.text=\r\n\ Lage\ en\ musikkspiller\r\n
+comment2.params=filename
+comment2.target=void\ addFile(java.lang.String)
+comment2.text=\r\n\ Legg\ til\ fil\r\n
+comment3.params=
+comment3.target=int\ getNumberOfFiles()
+comment3.text=\r\n\ Finne\ st\u00F8rrelse\r\n
+comment4.params=index
+comment4.target=void\ listFile(int)
+comment4.text=\r\n\ Finne\ en\ fil\r\n
+comment5.params=index
+comment5.target=void\ removeFile(int)
+comment5.text=\r\n\ Fjerne\ en\ fil\r\n
+comment6.params=
+comment6.target=void\ listAllMedForEach()
+comment6.text=\r\n\ Vise\ en\ liste\ av\ alle\ filene\ i\ kolleksjonen\ med\ for-each\ l\u00F8kke\r\n
+comment7.params=
+comment7.target=void\ listAllMedWhile()
+comment7.text=\r\n\ Vise\ en\ liste\ av\ alle\ filene\ i\ kolleksjonen\ med\ while-l\u00F8kke\r\n
+comment8.params=
+comment8.target=void\ listAllMedIterator()
+comment8.text=\ \r\n\ Vise\ en\ liste\ av\ alle\ filene\ i\ kolleksjonen\ med\ iterator\r\n
+numComments=9

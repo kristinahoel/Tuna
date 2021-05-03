@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sykkelbutikk
+comment0.text=\r\n\ En\ sykkelbutikk\ som\ holder\ detaljer\ om\ syklene\ den\ selger.\r\n\r\n\ @author\ Kristina\ \r\n\ @version\ 1.2\r\n
+comment1.params=butikkNavn
+comment1.target=Sykkelbutikk(java.lang.String)
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=newSykkel
+comment2.target=void\ addSykkel(Sykkel)
+comment2.text=\r\n\ Legge\ til\ en\ eksisterene\ sykkel\ i\ lista\ v\u00E5r.\r\n\ @param\ \ \ newSykkel\r\n
+comment3.params=farge\ type\ pris\ maxGear
+comment3.target=void\ nySykkel(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.text=\r\n\ Registrere\ ny\ sykkel\ i\ butikken.\r\n\ @param\ \ beskrivelse\ av\ sykkelen.\r\n
+comment4.params=
+comment4.target=void\ printOversikt()
+comment4.text=\r\n\ Skrive\ ut\ oversikt\ over\ syklene\ i\ butikken.\r\n
+comment5.params=prisGrense
+comment5.target=void\ printSykkelDetailsByCost(int)
+comment5.text=\r\n\ Liste\ alle\ syklene\ med\ pris\ som\ er\ h\u00F8yere\ enn\ spesifisert.\r\n
+numComments=6

@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=SkuespillerProdusent
+comment0.text=\r\n\ Siden\ vi\ bruker\ interface\ istedenfor\ abstrakte\ klasser\ kan\ vi\ implementere\r\n\ b\u00E5de\ Skuespiller\ og\ Produsent.\ Her\ defineres\ en\ ny\ SkuespillerProdusent\r\n\ interface\ som\ extender\ begge\ for\ \u00E5\ illustrere\ en\ skuespiller\ som\ produserer\r\n\ egene\ filmer.\r\n
+numComments=1

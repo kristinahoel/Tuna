@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Fugl
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fugl\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=art\ fdato\ pris\ vingeSpenn\ farge
+comment1.target=Fugl(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Fugl\r\n
+comment2.params=
+comment2.target=int\ getvingeSpenn()
+comment3.params=
+comment3.target=java.lang.String\ getfarge()
+comment4.params=vingeSpenn
+comment4.target=void\ setvingeSpenn(int)
+comment5.params=farge
+comment5.target=void\ setfarge(java.lang.String)
+comment6.params=
+comment6.target=void\ skrivDyr()
+numComments=7

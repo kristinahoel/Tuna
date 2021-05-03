@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sykkelbutikk
+comment0.text=\r\n\ En\ sykkelbutikk\ som\ holder\ detaljer\ om\ syklene\ den\ selger.\r\n\r\n\ @author\ Kristina\ Hoel\r\n\ @version\ 1.0\ 23.02.21\r\n
+comment1.params=
+comment1.target=Sykkelbutikk()
+comment1.text=\r\n\ Lage\ en\ Sykkelbutikk\r\n
+comment2.params=farge\ type\ pris\ gir\ hastighet\ forbrems\ bakbrems
+comment2.target=void\ nySykkel(java.lang.String,\ java.lang.String,\ int,\ Gir,\ int,\ Forbrems,\ Bakbrems)
+comment2.text=\r\n\ Registrere\ ny\ sykkel\ i\ butikken.\r\n\ @param\ \ beskrivelse\ av\ sykkelen.\r\n
+comment3.params=
+comment3.target=void\ visSykler()
+comment3.text=\r\n\ Skrive\ ut\ oversikt\ over\ syklene.\r\n
+numComments=4

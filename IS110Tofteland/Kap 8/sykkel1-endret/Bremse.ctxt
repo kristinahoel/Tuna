@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Bremse
+comment0.text=\r\n\ Klasse\ for\ bremser.\r\n\ \r\n\ @author\ Kristina\r\n\ @version\ 1.2\r\n
+comment1.params=maxStyrke\ type
+comment1.target=Bremse(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=void\ writeBrems()
+numComments=3

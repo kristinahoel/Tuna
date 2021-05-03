@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Responder
+comment0.text=\r\n\ Responder-klassen\ generer\ en\ automatisk\ respons\ basert\ p\u00E5\ input\ i\ form\ av\r\n\ ord.\ Basert\ p\u00E5\ inputen\ genereres\ en\ String\ som\ representerer\ responsen.\r\n\ \r\n\ HashMap\ brukes\ for\ \u00E5\ assosiere\ ord\ med\ respons\ strings\ og\ en\ liste\ med\r\n\ standardsvar.\ Hvis\ inputordet\ finnes\ i\ HashMap\ leveres\ det\ korresponderende\r\n\ svaret;\ finnes\ det\ ikke\ generes\ et\ default\ svar.\r\n\ \r\n\ @author\ Kristina\ Hoel\r\n\ @version\ 1.0\ (12.02.2021)\r\n
+comment1.params=
+comment1.target=Responder()
+comment1.text=\r\n\ Lager\ en\ Responder.\r\n
+comment2.params=words
+comment2.target=java.lang.String\ generateResponse(java.util.HashSet)
+comment2.text=\r\n\ Rekkef\u00F8lgen\ i\ settet\ er\ vilk\u00E5rlig\ og\ hentes\ ut\ i\ en\ for-each\ l\u00F8kke.\r\n
+comment3.params=
+comment3.target=void\ fillResponseMap()
+comment3.text=\r\n\ Setter\ inn\ kjente\ n\u00F8kkelord\ og\ svaret\ som\ h\u00F8rer\ til\ i\ responsmappet\r\n\ gjennom\ put-metoden.\r\n
+comment4.params=
+comment4.target=void\ fillDefaultResponses()
+comment4.text=\r\n\ Lista\ med\ default-svar\ vi\ sender\ om\ vi\ ikke\ vet\ hva\ vi\ skal\ si\ \r\n\ gjennom\ add-metoden.\r\n
+comment5.params=
+comment5.target=java.lang.String\ pickDefaultResponse()
+comment5.text=\r\n\ Velger\ og\ returnerer\ en\ av\ default-svarene.\ \r\n\ @returner\ \ \ \ \ Et\ tilfeldig\ default-svar\ \r\n
+numComments=6

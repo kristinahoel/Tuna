@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hund
+comment1.params=navn\ alder\ hundemat
+comment1.target=Hund(java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getHundemat()
+comment2.text=\r\n\ Getter.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returner\ en\ stringrepresentasjon\ av\ dette\ objektet.\r\n
+numComments=4

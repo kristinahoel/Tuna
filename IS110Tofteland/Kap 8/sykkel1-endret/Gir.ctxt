@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Gir
+comment0.text=\r\n\ Klasse\ for\ gir.\r\n\r\n\ @author\ Kristina\r\n\ @version\ 1.2\r\n
+comment1.params=maxGear
+comment1.target=Gir(int)
+comment1.text=\r\n\ Constructor\r\n
+comment2.params=
+comment2.target=int\ getGear()
+comment2.text=\r\n\ Eksempel\ p\u00E5\ getter.\r\n
+comment3.params=
+comment3.target=void\ writeGear()
+comment3.text=\r\n\ Metode\ for\ writeGear.\ Denne\ brukes\ i\ en\ annen\ klasse.\r\n
+numComments=4
